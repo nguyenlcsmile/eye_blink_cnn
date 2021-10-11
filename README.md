@@ -10,7 +10,7 @@ Link weight sau khi train: https://drive.google.com/drive/u/0/folders/1oaPsLmMa4
 
 Link datasets: https://www.kaggle.com/c/deepfake-detection-challenge/data
 
-Video test: 
+Video test: https://drive.google.com/file/d/1LOfUdr4yt2mtzWAHSzClVY9hpUvcqfhN/view?usp=sharing
 
 https://user-images.githubusercontent.com/73431832/136742995-09d82d47-636d-484d-b015-d3046e15b738.mp4
 
