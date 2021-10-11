@@ -12,5 +12,5 @@ Link datasets: https://www.kaggle.com/c/deepfake-detection-challenge/data
 
 Video test: 
 
-https://user-images.githubusercontent.com/73431832/136742635-7acafcd1-1311-47fc-bff4-16c2addcbd14.mp4
+https://user-images.githubusercontent.com/73431832/136742726-7cbf99df-b7ce-459d-b17e-39d456937987.mp4
 
